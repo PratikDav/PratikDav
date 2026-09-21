@@ -27,7 +27,7 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,bash,python,git,github,react,javascript,mongodb,firebase&theme=dark" alt="tech stack icons" />
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,kubernetes,bash,python,git,github,php,laravel,mysql,react,javascript,mongodb,firebase&theme=dark" alt="tech stack icons" />
 
 </div>
 
