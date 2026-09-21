@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-I started out as a **Web Developer**, building full-stack applications with React, JavaScript, Firebase, MongoDB, PHP, Laravel and Mysql. While working on those projects, I kept getting pulled toward a different question — *how does an app actually get deployed, scaled, and kept running in production?*
+I started out as a **Web Developer**, building full-stack applications with React, JavaScript, Firebase and MongoDB. While working on those projects, I kept getting pulled toward a different question — *how does an app actually get deployed, scaled, and kept running in production?*
 
 That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my foundation from the ground up — Linux, cloud infrastructure, containers — and documenting the journey through hands-on projects instead of just theory.
 
@@ -35,17 +35,14 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 ### 🔧 Featured DevOps Project
 
-<div align="center">
-
-<a href="https://github.com/PratikDav/simple-python-project-for-docker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikDav&repo=simple-python-project-for-docker&theme=tokyonight&hide_border=true" alt="Docker practice project"/>
-</a>
-
-</div>
-
-**[simple-python-project-for-docker](https://github.com/PratikDav/simple-python-project-for-docker)** — A small Python (Flask) app I containerized from scratch to learn Docker properly: writing a Dockerfile layer by layer, building/running the image, and deploying it on an **AWS EC2** instance (including debugging a Security Group / inbound rules issue along the way). Full write-up is in the project's README.
-
-`Python` `Docker` `AWS EC2` `Linux`
+> #### 🔗 [simple-python-project-for-docker](https://github.com/PratikDav/simple-python-project-for-docker)
+>
+> A small Python (Flask) app I containerized from scratch to learn Docker properly: writing a Dockerfile layer by layer, building/running the image, and deploying it on an **AWS EC2** instance (including debugging a Security Group / inbound rules issue along the way). Full write-up is in the project's README.
+>
+> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![AWS](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+> ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -69,7 +66,7 @@ A few full-stack projects from when I was focused on web development — kept he
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PratikDav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PratikDav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikDav&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikDav&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
