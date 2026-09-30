@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-I started out as a **Web Developer**, building full-stack applications with React, JavaScript, Firebase and MongoDB. While working on those projects, I kept getting pulled toward a different question — *how does an app actually get deployed, scaled, and kept running in production?*
+I started out as a **Web Developer**, building full-stack applications with React, JavaScript, PHP, Laravel, Firebase and MongoDB. While working on those projects, I kept getting pulled toward a different question — *how does an app actually get deployed, scaled, and kept running in production?*
 
 That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my foundation from the ground up — Linux, cloud infrastructure, containers — and documenting the journey through hands-on projects instead of just theory.
 
