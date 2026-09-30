@@ -35,11 +35,11 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 ### 🔧 Featured DevOps Project
 
-> #### 🔗 [simple-python-project-for-docker](https://github.com/PratikDav/simple-python-project-for-docker)
+> #### 🔗 [Dockerized_Form_Submission](https://github.com/PratikDav/dockerized_form_submission)
 >
 > A small Python (Flask) app I containerized from scratch to learn Docker properly: writing a Dockerfile layer by layer, building/running the image, and deploying it on an **AWS EC2** instance (including debugging a Security Group / inbound rules issue along the way). Full write-up is in the project's README.
 >
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 > ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 > ![AWS](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 > ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
