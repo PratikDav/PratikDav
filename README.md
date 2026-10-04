@@ -42,6 +42,31 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 > ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+## App Roadmap
+
+| Stage | Focus | Status |
+|---|---|---|
+| **Stage 1** | Laravel Basic App | ✅ Completed |
+| **Stage 2** | Docker & Image Optimization | ⏳ |
+| **Stage 3** | Multi-Container Setup | ⏳ |
+| **Stage 4** | CI/CD Pipeline | ⏳ |
+| **Stage 5** | Automated Deployment | ⏳ |
+| **Stage 6** | Kubernetes | ⏳ |
+| **Stage 7** | Terraform | ⏳ |
+| **Stage 8** | AWS Deployment | ⏳ |
+| **Stage 9** | Monitoring & Alerting | ⏳ |
+| **Stage 10** | Security & Trivy | ⏳ |
+| **Stage 11** | Reliability & Hardening | ⏳ |
+| **Stage 12** | Load Testing & k6 | ⏳ |
+| **Stage 13** | AWS Cost Optimization | ⏳ |
+| **Stage 14** | Production Deployment | ⏳ |
+
+### Progress
+
+**1 / 14 Completed**
+
+`█░░░░░░░░░░░░░` **7%**
+
 
 > #### 🔗 [Dockerized_Form_Submission](https://github.com/PratikDav/dockerized_form_submission)
 >
