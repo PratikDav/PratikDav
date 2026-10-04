@@ -34,6 +34,14 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 ---
 
 ### 🔧 Featured DevOps Project
+> #### 🔗 [Quick-Order-a-prograssive-devops-journey]([https://github.com/PratikDav/dockerized_form_submission](https://github.com/PratikDav/Quick-Order-a-prograssive-devops-journey))
+>
+> **Quick-Order** is a progressive DevOps journey, evolving from a basic application into a production-ready, cloud-native system through Docker, CI/CD, Kubernetes, AWS, monitoring, security, and more.
+>
+> ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+> ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 > #### 🔗 [Dockerized_Form_Submission](https://github.com/PratikDav/dockerized_form_submission)
 >
