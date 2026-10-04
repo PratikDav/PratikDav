@@ -93,8 +93,6 @@ A few full-stack projects from when I was focused on web development — kept he
 | 🔗 [inventory_management_system_oop_PHP](https://github.com/PratikDav/inventory_management_system_oop_PHP) | Inventory management system built with OOP PHP |
 | 🔗 [Antorongo-Network](https://github.com/PratikDav/Antorongo-Network) | Network-related web application |
 
-*(one-liners above are placeholders based on repo names — swap in the real description for each when you get a chance)*
-
 ---
 
 ### 📊 GitHub Stats
