@@ -68,7 +68,7 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 `█░░░░░░░░░░░░░` **7%**
 
-
+---
 > #### 🔗 [Dockerized_Form_Submission](https://github.com/PratikDav/dockerized_form_submission)
 >
 > A small Python (Flask) app I containerized from scratch to learn Docker properly: writing a Dockerfile layer by layer, building/running the image, and deploying it on an **AWS EC2** instance (including debugging a Security Group / inbound rules issue along the way). Full write-up is in the project's README.
