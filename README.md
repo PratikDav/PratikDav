@@ -43,7 +43,7 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## DevOps Roadmap
+## Roadmap of this App
 
 | Stage | Focus | Status |
 |---|---|---|
