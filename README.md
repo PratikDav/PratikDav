@@ -9,7 +9,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I started out as a **Web Developer**, building full-stack applications with React, JavaScript, PHP, Laravel, Firebase and MongoDB. While working on those projects, I kept getting pulled toward a different question — *how does an app actually get deployed, scaled, and kept running in production?*
 
@@ -23,7 +23,7 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -33,7 +33,7 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 ---
 
-<h4 align="center">###  Featured DevOps Project</h4> 
+<h2 align="center">Featured DevOps Project</h2> 
 > #### 🔗 [Quick-Order-a-prograssive-devops-journey]([https://github.com/PratikDav/dockerized_form_submission](https://github.com/PratikDav/Quick-Order-a-prograssive-devops-journey))
 >
 > **Quick-Order** is a progressive DevOps journey, evolving from a basic application into a production-ready, cloud-native system through Docker, CI/CD, Kubernetes, AWS, monitoring, security, and more.
