@@ -33,7 +33,7 @@ That curiosity is what pushed me into **DevOps**. I'm currently rebuilding my fo
 
 ---
 
-### 🔧 Featured DevOps Project
+<h4 align="center">###  Featured DevOps Project</h4> 
 > #### 🔗 [Quick-Order-a-prograssive-devops-journey]([https://github.com/PratikDav/dockerized_form_submission](https://github.com/PratikDav/Quick-Order-a-prograssive-devops-journey))
 >
 > **Quick-Order** is a progressive DevOps journey, evolving from a basic application into a production-ready, cloud-native system through Docker, CI/CD, Kubernetes, AWS, monitoring, security, and more.
